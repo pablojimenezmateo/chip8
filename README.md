@@ -10,6 +10,7 @@ Dependencies
     sudo apt-get install python3-pip
     sudo python3 install pyglet
 
+
 How to run
 ----------
 
