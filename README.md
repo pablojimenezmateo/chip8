@@ -1,7 +1,10 @@
 Yet another CHIP8 interpeter
 ====================================
 
-Author: Pablo Jiménez Mateo and [Ben Koppenaal](https://github.com/BenKoppenaal)
+Authors: Pablo Jiménez Mateo and [Ben Koppenaal](https://github.com/BenKoppenaal)
+
+![Preview](https://raw.github.com/gef3233/chip8/master/preview.gif)
+
 
 Dependencies
 ---------------------
