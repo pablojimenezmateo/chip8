@@ -3,7 +3,7 @@ Yet another CHIP8 interpeter
 
 Authors: Pablo Jiménez Mateo and [Ben Koppenaal](https://github.com/BenKoppenaal)
 
-![Preview](https://raw.github.com/gef3233/chip8/master/preview.gif)
+![Preview](https://github.com/pjimenezmateo/chip8/blob/master/preview.gif)
 
 
 Dependencies
