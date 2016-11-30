@@ -1,7 +1,7 @@
-Kindle weather and calendar displayer
+Yet another CHIP8 interpeter
 ====================================
 
-Author: Pablo Jiménez Mateo
+Author: Pablo Jiménez Mateo and [Ben Koppenaal](https://github.com/BenKoppenaal)
 
 Dependencies
 ---------------------
@@ -18,5 +18,4 @@ How to run
    python3 src/chip8.py <path to the game>
 ```
 
-This program is licensed under Creative commons Attribution 3.0 Unported, more info : 
-http://creativecommons.org/licenses/by/3.0/deed.en_US
+This program is licensed under MIT license.
